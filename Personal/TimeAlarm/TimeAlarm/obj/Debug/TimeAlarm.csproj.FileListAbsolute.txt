@@ -1,0 +1,11 @@
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\bin\Debug\Time Alarm.exe.config
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\bin\Debug\Time Alarm.exe
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\bin\Debug\Time Alarm.pdb
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.Properties.Resources.resources
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.csproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\obj\Debug\TimeAlarm.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\obj\Debug\Time Alarm.exe
+C:\Users\Marco\Desktop\Portfolio\Personal\TimeAlarm\TimeAlarm\obj\Debug\Time Alarm.pdb
